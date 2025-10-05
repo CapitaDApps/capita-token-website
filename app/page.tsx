@@ -8,7 +8,7 @@ import Token from "./component/Token";
 import Tokenomics from "./component/Tokenomics";
 import Roadmap from "./component/Roadmap";
 import Whitepaper from "./component/Whitepaper";
-import Sub from "./component/Sub";
+import Sub from "./component/Contact";
 import Footer from "./component/Footer";
 
 function Capita() {
